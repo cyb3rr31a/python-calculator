@@ -16,7 +16,8 @@ This is a simple and visually appealing calculator application built using Pytho
 
 ## Screenshot
 
-![<img width="296" alt="Screenshot 2024-12-23 063342" src="https://github.com/user-attachments/assets/8f9af82c-2b77-4bdf-b655-dfd21e96e6e3" />](#)
+![Calculator Screenshot](./assets/calculator_screenshot.png)
+> Add the file `calculator_screenshot.png` inside an `assets` folder in your project directory.
 
 ---
 
