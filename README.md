@@ -1,4 +1,4 @@
-# Calculator Application (Tkinter)
+<img width="296" alt="Screenshot 2024-12-23 063342" src="https://github.com/user-attachments/assets/23cad482-6d79-4b08-a71b-99fffa397365" /># Calculator Application (Tkinter)
 
 This is a simple and visually appealing calculator application built using Python's Tkinter library. It provides basic arithmetic functionality (addition, subtraction, multiplication, and division) with a modern design.
 
@@ -17,7 +17,7 @@ This is a simple and visually appealing calculator application built using Pytho
 ## Screenshot
 
 ![Calculator Screenshot](#)
-> (Add an image of the calculator here)
+> (<img width="296" alt="Screenshot 2024-12-23 063342" src="https://github.com/user-attachments/assets/8f9af82c-2b77-4bdf-b655-dfd21e96e6e3" />)
 
 ---
 
